@@ -22,7 +22,8 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?></a>
+			<?php printf('苏ICP备15003665号-2')?>
+<!--			<a href="--><?php //echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?><!--">--><?php //printf( __( '1Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?><!--</a>-->
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
 
