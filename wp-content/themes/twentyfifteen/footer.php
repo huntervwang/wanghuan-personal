@@ -22,7 +22,7 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
-			<?php printf('苏ICP备15003665号-2')?>
+			<?php printf('苏ICP备15003665号-2 &nbsp;&nbsp; 547476624@qq.com')?>
 <!--			<a href="--><?php //echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?><!--">--><?php //printf( __( '1Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?><!--</a>-->
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
